@@ -12,7 +12,7 @@ import { RouterLink, RouterView } from 'vue-router'
 	</footer>
 </template>
 
-<style>
+<style scoped>
 a{
 	font-size: 3px;
 	color:white;
