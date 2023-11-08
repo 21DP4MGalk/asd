@@ -2,6 +2,9 @@
 </script>
 
 <template>
+	<center>
+	<h1>Join our completely useless website</h1>
+	<h4>Every new account contributes to downfall of JS</h4>
 	<form>
 		<label for='uname'>Username</label>
 		<input type='text' id='uname' required> <br>
@@ -13,7 +16,9 @@
 		<input type='password' id='pwd_confirm' minlength="10" required> <br>
 		<input type='submit' value='Register'> <br>
 	</form>
+	</center>
 </template>
 
-<style>
+<style scoped>
+
 </style>
