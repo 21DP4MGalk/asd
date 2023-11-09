@@ -12,7 +12,9 @@ import { RouterLink, RouterView } from 'vue-router'
 	<RouterLink to="/wood">The Woodworking Services</RouterLink>
 	<RouterLink to="/programs">The Software</RouterLink>
 	<a href="mailto:email@email.mail">Contact</a>
+	<a href="https://www.youtube,com/watch?v=5vRlJrkxsqo">What this site is</a>
       </nav>
+      <br><br><br>
   </header>
   <RouterView />
 </template>
