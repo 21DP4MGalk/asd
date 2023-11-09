@@ -23,11 +23,14 @@ const router = createRouter({
 	component: () => import('../views/register.vue')
     },
     {
+<<<<<<< HEAD
 	path: '/login',
 	name: 'login',
 	component: () => import('../views/login.vue')
     },
     {
+=======
+>>>>>>> d339b3dbf0e22abb2db9825272055b57a6bd2859
     	path: '/wood',
 	name: 'wood',
 	component: () => import('../views/wood.vue')
@@ -36,7 +39,16 @@ const router = createRouter({
     	path: '/programs',
 	name: 'programs',
 	component: () => import('../views/programs.vue')
+<<<<<<< HEAD
     }
+=======
+    },
+    {
+    	path: '/code',
+	name: 'code',
+	component: () => import('../views/programs.vue')
+    },
+>>>>>>> d339b3dbf0e22abb2db9825272055b57a6bd2859
   ]
 })
 
