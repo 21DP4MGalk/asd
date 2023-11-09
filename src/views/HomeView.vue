@@ -3,7 +3,6 @@
 
 <template>
   <main>
-<<<<<<< HEAD
  	<center>
   	<h1> I HAVE NO IDEA WHAT TO PUT HERE </h1>
 	<h2> So here's some CCR lyrics </h2>
@@ -46,9 +45,5 @@ To a grey hope that all years to be<br>
 <br>
 Starless and bible black<br></p>
 	</center>
-=======
-	<h1>Pat nenojausu ko seit rakstit</h1>
-	<p>Tapec gan jau naksies izdomat ko trulu, vai vienkarsi Lorem Ipsum</p>
->>>>>>> d339b3dbf0e22abb2db9825272055b57a6bd2859
   </main>
 </template>

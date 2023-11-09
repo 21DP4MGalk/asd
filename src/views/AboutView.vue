@@ -1,5 +1,4 @@
 <template>
-<<<<<<< HEAD
 	<center>
 		<h1>THIS IS MY ABOUT PAGE</h1>
 		<h2>And you <i>will</i> like it</h2>
@@ -39,12 +38,4 @@ height: 1.5px;
 background-color: #777777;
 margin-left: 20%
 }
-=======
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
-</template>
-
-<style>
->>>>>>> d339b3dbf0e22abb2db9825272055b57a6bd2859
 </style>

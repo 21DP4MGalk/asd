@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <script setup>
 
 //import Upload from '../assets/components/Upload.vue'
@@ -20,11 +19,3 @@ div{
 }
 </style>
 
-=======
-<script>
-</script>
-<template>
-</template>
-<style scoped>
-</style>
->>>>>>> d339b3dbf0e22abb2db9825272055b57a6bd2859
