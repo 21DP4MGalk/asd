@@ -11,7 +11,6 @@ import { RouterLink, RouterView } from 'vue-router'
 	<RouterLink to="/login">Login</RouterLink>
 	<RouterLink to="/wood">The Woodworking Services</RouterLink>
 	<RouterLink to="/programs">The Software</RouterLink>
-	<RouterLink to="/code">The Open Source Code</RouterLink>
 	<a href="mailto:email@email.mail">Contact</a>
       </nav>
   </header>

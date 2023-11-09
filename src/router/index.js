@@ -36,12 +36,7 @@ const router = createRouter({
     	path: '/programs',
 	name: 'programs',
 	component: () => import('../views/programs.vue')
-    },
-    {
-    	path: '/code',
-	name: 'code',
-	component: () => import('../views/programs.vue')
-    },
+    }
   ]
 })
 
